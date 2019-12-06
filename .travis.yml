@@ -27,7 +27,7 @@ jobs:
         - go test -v ./tests/...
       before_deploy:
         - bash scripts/osx.sh
-        - export RELEASE_NOTES=`cat dist/RELEASE.md`
+        - export RELEASE_NOTES="`cat dist/RELEASE.md`"
       deploy:
         provider: releases
         file_glob: true
