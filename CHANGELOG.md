@@ -1,6 +1,6 @@
 
-<a name="0.2.17"></a>
-## [0.2.17](https://github.com/ajdnik/decrypo/compare/0.2.14...0.2.17) (2019-12-06)
+<a name="0.2.18"></a>
+## [0.2.18](https://github.com/ajdnik/decrypo/compare/0.2.14...0.2.18) (2019-12-06)
 
 ### Chore
 
@@ -8,9 +8,12 @@
 * updated changelog
 * version bumped
 * updated changelog
+* version bumped
+* updated changelog
 
 ### Fix
 
+* json escape release notes
 * travis release export as string
 * travis release export
 * travis release description
