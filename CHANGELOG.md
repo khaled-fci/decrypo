@@ -1,9 +1,15 @@
 
-<a name="0.2.15"></a>
-## [0.2.15](https://github.com/ajdnik/decrypo/compare/0.2.14...0.2.15) (2019-12-06)
+<a name="0.2.16"></a>
+## [0.2.16](https://github.com/ajdnik/decrypo/compare/0.2.14...0.2.16) (2019-12-06)
+
+### Chore
+
+* version bumped
+* updated changelog
 
 ### Fix
 
+* travis release export
 * travis release description
 
 
