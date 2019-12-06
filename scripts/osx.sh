@@ -21,3 +21,5 @@ rm -rf "${NAME}"
 go get -u github.com/git-chglog/git-chglog/cmd/git-chglog
 
 git-chglog -c ../.chglog/release/config.yml -o RELEASE.md ${TRAVIS_TAG}
+
+export RELEASE_NOTES=`cat RELEASE.md`
